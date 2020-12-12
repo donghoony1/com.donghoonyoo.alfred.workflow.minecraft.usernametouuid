@@ -1,0 +1,13 @@
+{
+  "name": "com.donghoonyoo.alfred.minecraft.usernametouuid",
+  "version": "1.0.0",
+  "description": "Minecraft Username to UUID",
+  "main": "index.js",
+  "author": "DongHoon, Yoo",
+  "license": "GPL-3.0",
+  "dependencies": {
+    "add-dashes-to-uuid": "^1.0.0",
+    "alfy": "^0.10.0",
+    "axios": "^0.21.0"
+  }
+}
